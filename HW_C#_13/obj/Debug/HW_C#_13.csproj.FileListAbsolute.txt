@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\HW_C#_13\HW_C#_13\bin\Debug\HW_C#_13.exe.config
+C:\Users\Admin\source\repos\HW_C#_13\HW_C#_13\bin\Debug\HW_C#_13.exe
+C:\Users\Admin\source\repos\HW_C#_13\HW_C#_13\bin\Debug\HW_C#_13.pdb
+C:\Users\Admin\source\repos\HW_C#_13\HW_C#_13\obj\Debug\HW_C#_13.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_C#_13\HW_C#_13\obj\Debug\HW_C#_13.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\HW_C#_13\HW_C#_13\obj\Debug\HW_C#_13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_C#_13\HW_C#_13\obj\Debug\HW_C#_13.exe
+C:\Users\Admin\source\repos\HW_C#_13\HW_C#_13\obj\Debug\HW_C#_13.pdb
